@@ -1,8 +1,6 @@
-# <u>LINK PARA OS MEUS TUTORIAIS</u>
-
+# <u>ANGULAR</u>
 **Autor:** Carlos Biagolini-Jr.
 
-# Links
 
 ## A
 ### Auto complete
