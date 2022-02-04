@@ -29,6 +29,9 @@ https://github.com/biagolini/AngularInputChanges
 ### Input Hover
 https://github.com/biagolini/AngularInputHover
 
+### Input Mask Currency
+https://github.com/biagolini/AngularInputMaskCurrency/tree/master
+
 ## J
 
 ## K
