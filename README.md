@@ -30,7 +30,7 @@ https://github.com/biagolini/AngularInputChanges
 https://github.com/biagolini/AngularInputHover
 
 ### Input Mask Currency
-https://github.com/biagolini/AngularInputMaskCurrency/tree/master
+https://github.com/biagolini/AngularInputMaskCurrency
 
 ## J
 
