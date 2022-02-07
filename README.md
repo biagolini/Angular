@@ -26,6 +26,9 @@ https://github.com/biagolini/AngularJsonServer
 ### Input on changes
 https://github.com/biagolini/AngularInputChanges
 
+### Input Hide-Show Password Button
+https://github.com/biagolini/AngularInputHideShowPasswordButton
+
 ### Input Hover
 https://github.com/biagolini/AngularInputHover
 
