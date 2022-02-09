@@ -15,6 +15,8 @@ https://github.com/biagolini/AngularJsonServer
 ## D
 
 ## E
+### Emails
+https://github.com/biagolini/JavaSpringEmail
 
 ## F
 
