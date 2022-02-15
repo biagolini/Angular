@@ -11,7 +11,8 @@ https://github.com/biagolini/AngularJsonServer
 ## B
 
 ## C
-
+### CSS class given a condition
+https://github.com/biagolini/AngularCssClassCondition
 ## D
 
 ## E
