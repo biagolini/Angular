@@ -62,6 +62,8 @@ https://github.com/biagolini/AngularPipes
 ## S
 
 ## T
+### Table alternate row colours
+https://github.com/biagolini/AngularTableAlternateRowColours
 
 ## U
 
