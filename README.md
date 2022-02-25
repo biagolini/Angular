@@ -11,6 +11,8 @@ https://github.com/biagolini/AngularJsonServer
 ## B
 
 ## C
+### Chips
+https://github.com/biagolini/AngularChips
 ### CSS class given a condition
 https://github.com/biagolini/AngularCssClassCondition
 ## D
