@@ -9,6 +9,8 @@ https://github.com/biagolini/AngularAutoComplete
 https://github.com/biagolini/AngularJsonServer
 
 ## B
+### Button Toggle
+https://github.com/biagolini/AngularButtonToggle
 
 ## C
 ### Chips
