@@ -20,10 +20,10 @@ https://github.com/biagolini/AngularCssClassCondition
 ## D
 
 ## E
-### Emails
-https://github.com/biagolini/JavaSpringEmail
 
 ## F
+### Form Validation By Condition
+https://github.com/biagolini/AngulaFormValitionByCondition
 
 ## G
 
