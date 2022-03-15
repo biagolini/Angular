@@ -17,6 +17,7 @@ https://github.com/biagolini/AngularButtonToggle
 https://github.com/biagolini/AngularChips
 ### CSS class given a condition
 https://github.com/biagolini/AngularCssClassCondition
+
 ## D
 
 ## E
@@ -30,6 +31,9 @@ https://github.com/biagolini/AngulaFormValitionByCondition
 ## H
 
 ## I
+### Input appearance given a condition
+https://github.com/biagolini/AngularInputAppearanceCondition
+
 ### Input on changes
 https://github.com/biagolini/AngularInputChanges
 
