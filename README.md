@@ -9,6 +9,8 @@ https://github.com/biagolini/AngularAutoComplete
 https://github.com/biagolini/AngularJsonServer
 
 ## B
+### Breakpoint Observer
+https://github.com/biagolini/AngularBreakpointObserver
 ### Button Toggle
 https://github.com/biagolini/AngularButtonToggle
 
