@@ -70,6 +70,9 @@ https://github.com/biagolini/AngularPipes
 https://github.com/biagolini/AngularRadioGroup
 
 ## S
+### Screen Aspect Ratio Monitor 
+https://github.com/biagolini/AngularScreenAspectRatioMonitor 
+
 
 ## T
 ### Table alternate row colours
