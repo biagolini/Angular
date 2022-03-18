@@ -21,6 +21,8 @@ https://github.com/biagolini/AngularChips
 https://github.com/biagolini/AngularCssClassCondition
 
 ## D
+### Date Picker
+https://github.com/biagolini/AngularDatePicker
 
 ## E
 
