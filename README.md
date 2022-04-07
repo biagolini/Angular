@@ -23,6 +23,8 @@ https://github.com/biagolini/AngularCssClassCondition
 ## D
 ### Date Picker
 https://github.com/biagolini/AngularDatePicker
+### Date Picker with DD/MM/YYYY 
+https://github.com/biagolini/AngularDatePickerDD-MM-YYYY
 
 ## E
 
