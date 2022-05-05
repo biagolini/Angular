@@ -25,8 +25,12 @@ https://github.com/biagolini/AngularCssClassCondition
 https://github.com/biagolini/AngularDatePicker
 ### Date Picker with DD/MM/YYYY 
 https://github.com/biagolini/AngularDatePickerDD-MM-YYYY
+### Date Manipulation
+https://github.com/biagolini/AngularDateManipulation
 ### Dark Ligth Modes
 https://github.com/biagolini/AngularDarkLigthModes
+
+
 
 ## E
 
