@@ -73,6 +73,8 @@ https://github.com/biagolini/AngularInputMaskCurrency
 ## N
 
 ## O
+### Option With Optgroup
+https://github.com/biagolini/AngularOptionWithOptgroup
 
 ## P
 
