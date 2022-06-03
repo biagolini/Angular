@@ -33,7 +33,8 @@ https://github.com/biagolini/AngularDatePickerDD-MM-YYYY
 https://github.com/biagolini/AngularDateManipulation
 ### Dark Ligth Modes
 https://github.com/biagolini/AngularDarkLigthModes
-
+### Display Data By Groups
+https://github.com/biagolini/AngularDisplayDataByGroups
 
 
 ## E
@@ -73,8 +74,7 @@ https://github.com/biagolini/AngularInputMaskCurrency
 ## N
 
 ## O
-### Option With Optgroup
-https://github.com/biagolini/AngularOptionWithOptgroup
+
 
 ## P
 
