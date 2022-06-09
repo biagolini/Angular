@@ -15,6 +15,8 @@ https://github.com/biagolini/AngularBreakpointObserver
 https://github.com/biagolini/AngularButtonToggle
 
 ## C
+### Call Function by Time Interval
+https://github.com/biagolini/AngularCallFunctionByTime
 ### Chips
 https://github.com/biagolini/AngularChips
 ### CSS Basic
