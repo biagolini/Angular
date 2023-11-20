@@ -73,6 +73,9 @@ https://github.com/biagolini/AngularInputMaskCurrency
 
 ## M
 ### Multiple Select
+https://github.com/biagolini/AngularMarkdown
+
+### Multiple Select
 https://github.com/biagolini/AngularMultipleSelect
 
 ## N
