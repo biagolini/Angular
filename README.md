@@ -72,7 +72,7 @@ https://github.com/biagolini/AngularInputMaskCurrency
 ## L
 
 ## M
-### Multiple Select
+### Markdown
 https://github.com/biagolini/AngularMarkdown
 
 ### Multiple Select
