@@ -72,6 +72,11 @@ https://github.com/biagolini/AngularInputMaskCurrency
 ## L
 
 ## M
+### Mat Table Column Resize
+Enabling dynamic resizing of table columns using Material icons for a visually appealing and intuitive user experience.
+
+https://github.com/biagolini/AngularMatTableColumnResize
+
 ### Markdown
 https://github.com/biagolini/AngularMarkdown
 
