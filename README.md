@@ -99,6 +99,11 @@ https://github.com/biagolini/AngularPipes
 ### Radio Group
 https://github.com/biagolini/AngularRadioGroup
 
+### Resizable Sidenav
+Resizable sidenav in Angular using dynamic side navigation with modules.
+
+https://github.com/biagolini/AngularResizableSidenav
+
 ## S
 ### Screen Aspect Ratio Monitor 
 https://github.com/biagolini/AngularScreenAspectRatioMonitor 
