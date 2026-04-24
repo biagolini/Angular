@@ -30,7 +30,13 @@ Demonstrates how to create a mock API server using JSON Server.
 
 Demonstrates how to use AWS Cognito email MFA to enforce additional authentication only on sensitive operations (e.g., money transfers) while keeping other actions (e.g., balance check) unprotected.
 
-[https://github.com/biagolini/AngularCognitoMfaProtectedActions](https://github.com/biagolini/AngularCognitoMfaProtectedActions)
+[https://github.com/biagolini/AngularAwsCognitoMfaProtectedActions](https://github.com/biagolini/AngularAwsCognitoMfaProtectedActions)
+
+### AWS CloudFront Pipeline Demo
+
+Demonstrates how to create a GitHub Actions pipeline to deploy a static Angular site using an S3 bucket for file storage and CloudFront for content delivery.
+
+[https://github.com/biagolini/AngularAwsCloudfrontPipelineDemo](https://github.com/biagolini/AngularAwsCloudfrontPipelineDemo)
 
 ## B
 
