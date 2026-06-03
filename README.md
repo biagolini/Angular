@@ -32,6 +32,12 @@ Demonstrates how to use AWS Cognito email MFA to enforce additional authenticati
 
 [https://github.com/biagolini/AngularAwsCognitoMfaProtectedActions](https://github.com/biagolini/AngularAwsCognitoMfaProtectedActions)
 
+### AWS API Gateway Lambda Streaming
+
+Demonstrates how to consume a streaming response from an AWS Lambda function (via API Gateway REST with responseTransferMode STREAM) using fetch() and ReadableStream.
+
+[https://github.com/biagolini/AngularAwsApiGatewayLambdaStreaming](https://github.com/biagolini/AngularAwsApiGatewayLambdaStreaming)
+
 ### AWS CloudFront Pipeline Demo
 
 Demonstrates how to create a GitHub Actions pipeline to deploy a static Angular site using an S3 bucket for file storage and CloudFront for content delivery.
