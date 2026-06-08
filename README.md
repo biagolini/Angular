@@ -14,6 +14,12 @@
 
 ## A
 
+### Anthropic Study Assistant
+
+A mobile-first study app for any IT certification exam. Users paste raw exam questions, receive AI-generated structured reviews via the Anthropic API, accumulate reviewed questions across sessions, and export selections as Markdown files ready for Google NotebookLM podcast generation.
+
+[https://github.com/biagolini/AngularAnthropicStudyAssistant](https://github.com/biagolini/AngularAnthropicStudyAssistant)
+
 ### Auto Complete
 
 An example of an autocomplete input field in Angular.
